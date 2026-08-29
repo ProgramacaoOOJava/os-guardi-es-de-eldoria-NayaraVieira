@@ -1,0 +1,51 @@
+nome do jogo -> Os Guardiões de Eudoria
+
+é um jogo de RPG
+
+nós vamos utilizar os conhecimentos de programação orientada a objetos em java para criar esse jogo
+
+nivel 1
+
+criar a classe personagem
+
+Status do Personagem 1:
+Nome: Aragorn
+Classe: Guerreiro
+Nível: 10
+Pontos de Vida: 100
+Poder Base: 50.0
+
+Status do Personagem 2:
+Nome: Gandalf
+Classe: Mago
+Nível: 15
+Pontos de Vida: 80
+Poder Base: 70.0
+
+Status do Personagem 3:
+Nome: Arthemis
+Classe: Arqueira
+Nível: 5
+Pontos de Vida: 80
+Poder Base: 12.5
+
+Status do Personagem 4:
+Nome: Lyrenna
+Classe: Maga
+Nível: 8
+Pontos de Vida: 60
+Poder Base: 30.0
+
+Status do Personagem 5:
+Nome: Thorin
+Classe: Guerreiro
+Nível: 12
+Pontos de Vida: 90
+Poder Base: 55.0
+
+Status do Personagem 6:
+Nome: Legolas
+Classe: Arqueiro
+Nível: 7
+Pontos de Vida: 75
+Poder Base: 25.0
